@@ -1,0 +1,788 @@
+.fcstream {
+    background-image: url(//1.bp.blogspot.com/-edtIcbieHHI/W_MEj79oT9I/AAAAAAAAACQ/NBLTv3OCSbIjCO5Sty1HOfH3QsYiqzPEACK4BGAYYCw/s1600/download.png);
+    display:inline-block;
+    width:30px;
+    height:25px;
+    background-repeat:no-repeat;
+    vertical-align:middle;
+}
+
+.fcstream-AFC-Champions-League {
+    width: 30px;
+    height: 25px;
+    background-position: 0 0;
+}
+
+.fcstream-AFC-cup {
+    width: 30px;
+    height: 25px;
+    background-position: -30px 0;
+}
+
+.fcstream-AFC-nation-cup-2019 {
+    width: 30px;
+    height: 25px;
+    background-position: -60px 0;
+}
+
+.fcstream-Athletics {
+    width: 30px;
+    height: 25px;
+    background-position: -90px 0;
+}
+
+.fcstream-CONCACAF-Champions-League {
+    width: 30px;
+    height: 25px;
+    background-position: -120px 0;
+}
+
+.fcstream-Copa-Libertadores {
+    width: 30px;
+    height: 25px;
+    background-position: -150px 0;
+}
+
+.fcstream-Copa-Sudamericana {
+    width: 30px;
+    height: 25px;
+    background-position: -180px 0;
+}
+
+.fcstream-Coupe-du-Monde-des-Clubs {
+    width: 30px;
+    height: 25px;
+    background-position: -210px 0;
+}
+
+.fcstream-Courses {
+    width: 30px;
+    height: 25px;
+    background-position: -240px 0;
+}
+
+.fcstream-Courses-hippiques {
+    width: 30px;
+    height: 25px;
+    background-position: -270px 0;
+}
+
+.fcstream-Darts {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -25px;
+}
+
+.fcstream-Eredivisie {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -25px;
+}
+
+.fcstream-Futsal {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -25px;
+}
+
+.fcstream-Patinage {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -25px;
+}
+
+.fcstream-af-CAF-Champions-League {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -25px;
+}
+
+.fcstream-af-CAF-Confederations-Cup {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -25px;
+}
+
+.fcstream-af-caf-b {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -25px;
+}
+
+.fcstream-af-caf-w {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -25px;
+}
+
+.fcstream-af-can {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -25px;
+}
+
+.fcstream-amical {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -25px;
+}
+
+.fcstream-ar {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -50px;
+}
+
+.fcstream-at {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -50px;
+}
+
+.fcstream-basketball {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -50px;
+}
+
+.fcstream-be {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -50px;
+}
+
+.fcstream-be-jupiler-pro-league {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -50px;
+}
+
+.fcstream-billard {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -50px;
+}
+
+.fcstream-boxe {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -50px;
+}
+
+.fcstream-br {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -50px;
+}
+
+.fcstream-ca {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -50px;
+}
+
+.fcstream-ch {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -50px;
+}
+
+.fcstream-cn {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -75px;
+}
+
+.fcstream-cyclisme {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -75px;
+}
+
+.fcstream-de {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -75px;
+}
+
+.fcstream-de-bundesliga {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -75px;
+}
+
+.fcstream-de-bundesliga-2 {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -75px;
+}
+
+.fcstream-de-dfb-pokal {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -75px;
+}
+
+.fcstream-de-super-cup {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -75px;
+}
+
+.fcstream-dk {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -75px;
+}
+
+.fcstream-dz {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -75px;
+}
+
+.fcstream-eSports {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -75px;
+}
+
+.fcstream-eSports-Foosball {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -100px;
+}
+
+.fcstream-es {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -100px;
+}
+
+.fcstream-es-Copa-del-Rey {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -100px;
+}
+
+.fcstream-es-Supercopa {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -100px;
+}
+
+.fcstream-es-laliga {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -100px;
+}
+
+.fcstream-eu {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -100px;
+}
+
+.fcstream-eu-NationsLeague {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -100px;
+}
+
+.fcstream-eu-UEFA-Champions-League {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -100px;
+}
+
+.fcstream-eu-UEFA-Europa-League {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -100px;
+}
+
+.fcstream-eu-euro-2016 {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -100px;
+}
+
+.fcstream-eu-euro-2020 {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -125px;
+}
+
+.fcstream-eu-uefa-Champions-League-women {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -125px;
+}
+
+.fcstream-eu-uefa-Super-cup {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -125px;
+}
+
+.fcstream-flash {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -125px;
+}
+
+.fcstream-football {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -125px;
+}
+
+.fcstream-football-americain {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -125px;
+}
+
+.fcstream-formula-1 {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -125px;
+}
+
+.fcstream-fr {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -125px;
+}
+
+.fcstream-fr-Trophee-des-Champions {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -125px;
+}
+
+.fcstream-fr-coupe-de-france {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -125px;
+}
+
+.fcstream-fr-coupe-de-ligue {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -150px;
+}
+
+.fcstream-fr-ligue-1 {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -150px;
+}
+
+.fcstream-fr-ligue-2 {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -150px;
+}
+
+.fcstream-fr-prod2 {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -150px;
+}
+
+.fcstream-fr-top14 {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -150px;
+}
+
+.fcstream-gb {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -150px;
+}
+
+.fcstream-golf {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -150px;
+}
+
+.fcstream-gr {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -150px;
+}
+
+.fcstream-gr-super-league {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -150px;
+}
+
+.fcstream-handball {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -150px;
+}
+
+.fcstream-hk {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -175px;
+}
+
+.fcstream-html5 {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -175px;
+}
+
+.fcstream-it {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -175px;
+}
+
+.fcstream-it-coppa-italia {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -175px;
+}
+
+.fcstream-it-serie-a {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -175px;
+}
+
+.fcstream-it-supercoppa {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -175px;
+}
+
+.fcstream-jeux {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -175px;
+}
+
+.fcstream-jp {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -175px;
+}
+
+.fcstream-kr {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -175px;
+}
+
+.fcstream-ma {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -175px;
+}
+
+.fcstream-mma {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -200px;
+}
+
+.fcstream-moto-gp {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -200px;
+}
+
+.fcstream-mx {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -200px;
+}
+
+.fcstream-natation {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -200px;
+}
+
+.fcstream-nl {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -200px;
+}
+
+.fcstream-nl-redivisie {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -200px;
+}
+
+.fcstream-olympics {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -200px;
+}
+
+.fcstream-pl {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -200px;
+}
+
+.fcstream-pt {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -200px;
+}
+
+.fcstream-pt-liga-nos {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -200px;
+}
+
+.fcstream-radio {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -225px;
+}
+
+.fcstream-rugby {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -225px;
+}
+
+.fcstream-sco {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -225px;
+}
+
+.fcstream-se {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -225px;
+}
+
+.fcstream-sr {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -225px;
+}
+
+.fcstream-telefoot {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -225px;
+}
+
+.fcstream-tennis {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -225px;
+}
+
+.fcstream-tn {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -225px;
+}
+
+.fcstream-tr {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -225px;
+}
+
+.fcstream-tr-super-lig {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -225px;
+}
+
+.fcstream-tv {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -250px;
+}
+
+.fcstream-tv-bein-1 {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -250px;
+}
+
+.fcstream-tv-bein-2 {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -250px;
+}
+
+.fcstream-tv-bein-3 {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -250px;
+}
+
+.fcstream-tv-canal {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -250px;
+}
+
+.fcstream-tv-canal-sport {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -250px;
+}
+
+.fcstream-tv-equipe {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -250px;
+}
+
+.fcstream-tv-euro-sport {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -250px;
+}
+
+.fcstream-tv-euro-sport2 {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -250px;
+}
+
+.fcstream-tv-rmc {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -250px;
+}
+
+.fcstream-tv-rmc-1 {
+    width: 30px;
+    height: 25px;
+    background-position: 0 -275px;
+}
+
+.fcstream-ufc {
+    width: 30px;
+    height: 25px;
+    background-position: -30px -275px;
+}
+
+.fcstream-uk {
+    width: 30px;
+    height: 25px;
+    background-position: -60px -275px;
+}
+
+.fcstream-uk-SPFL {
+    width: 30px;
+    height: 25px;
+    background-position: -90px -275px;
+}
+
+.fcstream-uk-Scottish-League-Cup {
+    width: 30px;
+    height: 25px;
+    background-position: -120px -275px;
+}
+
+.fcstream-uk-Scottish-cup {
+    width: 30px;
+    height: 25px;
+    background-position: -150px -275px;
+}
+
+.fcstream-uk-carabao-league-cup {
+    width: 30px;
+    height: 25px;
+    background-position: -180px -275px;
+}
+
+.fcstream-uk-championship {
+    width: 30px;
+    height: 25px;
+    background-position: -210px -275px;
+}
+
+.fcstream-uk-community-shield {
+    width: 30px;
+    height: 25px;
+    background-position: -240px -275px;
+}
+
+.fcstream-uk-premier-league {
+    width: 30px;
+    height: 25px;
+    background-position: -270px -275px;
+}
+
+.fcstream-us-mlb {
+    width: 30px;
+    height: 25px;
+    background-position: -300px 0;
+}
+
+.fcstream-us-mls {
+    width: 30px;
+    height: 25px;
+    background-position: -300px -25px;
+}
+
+.fcstream-us-nba {
+    width: 30px;
+    height: 25px;
+    background-position: -300px -50px;
+}
+
+.fcstream-us-nfl {
+    width: 30px;
+    height: 25px;
+    background-position: -300px -75px;
+}
+
+.fcstream-us-nhl {
+    width: 30px;
+    height: 25px;
+    background-position: -300px -100px;
+}
+
+.fcstream-us-wwe {
+    width: 30px;
+    height: 25px;
+    background-position: -300px -125px;
+}
+
+.fcstream-usa {
+    width: 30px;
+    height: 25px;
+    background-position: -300px -150px;
+}
+
+.fcstream-vollyball {
+    width: 30px;
+    height: 25px;
+    background-position: -300px -175px;
+}
+
+.fcstream-wales {
+    width: 30px;
+    height: 25px;
+    background-position: -300px -200px;
+}
+
+.fcstream-youtube {
+    width: 30px;
+    height: 25px;
+    background-position: -300px -225px;
+}
