@@ -15,3 +15,63 @@ background-size:20px;vertical-align:initial;margin-right:0;border-radius:0}@medi
 
 
 .login-form{max-width:400px;margin:60px auto}.fieldsubmit.igroup .btn{font-size:14px;font-weight:700;padding:9px 18px;border-radius:6px 0}.igroup-span{padding:6px 16px;font-size:16px}.latest ul li a h4{font-size:14px;font-weight:400;line-height:1.42857143}#serie-seasons .h-header,#serie-episodes .h-header{margin:0;border:0;border-top:1px solid #ddd;border-bottom:1px solid #ddd;padding:14px 55px 15px 15px;background:#f7f7f7;font-size:14px;margin-bottom:10px;text-transform:uppercase;font-weight:700;line-height:1.1}.season-list .shortstory-in{display:inline-block!important;float:none!important}.season-list{text-align:center;font-size:0}.fstory-info.season-tools{border-bottom:0;border-top:1px solid #ddd;background:#fff}.season-list .shortstory{position:relative}.serie-middle{margin:0;text-align:center;padding:0 10px;font-size:15px;margin-top:25px}.episode-list{text-align:center;font-size:0;padding-top:20px;padding-bottom:20px}.saision_LI2 a:hover{background:#4453aa}.block-infos.eps-infos{border-top:1px solid #ddd;padding-top:15px;margin-top:20px}form#vehicleRegFrm{padding:5px 0 15px;border-bottom:1px solid #ddd}form#vehicleRegFrm .col-md-6{padding:0 3px}form#vehicleRegFrm .col-md-6 .roww>div{padding:0 3px}form#vehicleRegFrm select{padding:10px 15px 11px}#scroller{display:none}li.more-eps>a{border-bottom:1px solid #ddd;padding:12px;display:block;font-size:14px;font-weight:700;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;position:relative}ul li.more-eps:last-child>a{border-bottom:none}li.more-eps>a:hover{background:#f7f7f7;color:#333}li.more-eps.s-active>a{background:#4453aa!important;color:#fff;border-bottom-color:#4453aa;padding:12px 42px 11px 12px}li.more-eps.s-active>a>i{position:absolute;font-size:19px;right:12px}li.more-eps.s-active{margin-top:-1px}ul li.more-eps:first-child{margin-top:0}.no-video{width:100%;height:400px;background-color:#333;text-align:center;position:relative}.no-video span{color:#fff;font-weight:700;position:absolute;top:50%;left:0;right:0;width:100%;font-size:25px;text-transform:uppercase;line-height:30px;margin-top:-15px}.wprp_report_link{overflow:hidden}.wprp_message i{font-size:18px;margin-right:10px}.fstory-page{margin:20px;padding-bottom:20px;font-size:14px;line-height:1.6}.h-dmca,.h-stat,.h-contact,.h-page{margin:0;font-size:17px;margin-bottom:20px;margin-top:30px;text-align:center;color:#4453aa;border:none;padding:0}.dmca-desc,.stat-desc,.contact-desc{text-align:justify}.dmca-page h2,.stat-page h2,.contact-page h2{margin:0;font-size:16px;margin-bottom:8px;margin-top:30px;text-decoration:underline;color:#4453aa}.dmca-page a,.stat-page a,.contact-page a{color:#4453aa;font-style:italic}.dmca-content,.stat-content,.contact-content{text-align:justify}.berrors.success{background: linear-gradient(45deg, #5b2d90 0%,#583496 25%,#4b48a3 50%,#3768b7 75%,#12a1dd 100%);padding:10px}#search-layer{position:fixed;background:rgba(0,0,0,.35);top:0;left:0;width:100%;height:100%;z-index:9998}#searchsuggestions>a>img{float:left;margin-right:15px;border-radius:6px 0}.short-link a span{color:#4453aa;text-decoration:underline}#searchsuggestions a span.searchheading i{color:#333;font-size:12px;vertical-align:bottom;text-transform:uppercase}#searchsuggestions .no-result{padding:30px 20px;background:#4453aa;text-align:center;font-size:16px;font-weight:700;color:#fff}.search-empty{margin:80px 0 100px;padding:0 20px;font-size:20px;text-align:center}.search-empty i.fa{display:block;font-size:100px;margin-bottom:20px;color:#4453aa}.search-empty .search-term{color:#4453aa;font-weight:700}.saision_LI2 a.deletevideo,.season-list a.deletevideo{position:absolute;width:unset;top:1px;right:11px;padding:0;margin:0;border:unset;border-radius:unset;background:#fff}.saision_LI2 a.deletevideo img,.season-list a.deletevideo img{display:block;width:20px}.season-list a.deletevideo{background: linear-gradient(45deg, #5b2d90 0%,#583496 25%,#4b48a3 50%,#3768b7 75%,#12a1dd 100%);right:1px;padding:5px}a.add_ep_index,a.serie_date{display:block;position:absolute;right:10px;top:10px}a.add_ep_index img,a.serie_date img{display:block}.latest ul li a.delete_ep_index{float:left;padding:0;display:inline;position:absolute;top:0;border:0;color:#4453aa;font-size:21px;z-index:1;height:36px;width:37px;line-height:36px;text-align:center;background:#f7f7f7;border-right:1px solid #ddd;padding-left:0!important}.latest ul li a.delete_ep_index:hover{background:#4453aa;color:#f7f7f7}.latest ul li{position:relative}.latest ul li a.delete_ep_index i{width:18px;height:18px;text-align:center}.latest ul li.can-edit a{padding-left:47px}.c-panel{padding:0 10px;margin-bottom:20px}.c-panel .cp-inner{padding:15px;background:#333}i.server.player-vidoza{width:20px;height:20px;background-position:0 -600px}i.server.player-upvid{width:20px;height:20px;background-position:0 -540px}i.server.player-rapidvideo{width:20px;height:20px;background-position:0 -560px}i.server.player-cloudcartel{width:20px;height:20px;background-position:0 -580px}
+
+
+
+.timerb {
+    display: block;
+    padding: 3px 0 4px;
+    background: #4b48a3; 
+    color: #fff;
+    font-size: 14px;
+    border-radius: 6px 0;
+    line-height: 1.42857143;
+    top: 6px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.timer {
+    display: block;
+    padding: 3px 0 4px;
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    color: #fff;
+    font-size: 18px;
+    border-radius: 6px 0;
+    line-height: 1.42857143;
+    top: 6px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.fstory-content span {
+    margin-bottom: 6px;
+    margin-right: 6px;
+    display: inline-block;
+    line-height: 23px;
+    padding: 2px 10px 4px;
+    color: #fff;
+    text-decoration: none;
+    background: #4453aa;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 6px 0;
+}
+
+.latest ul li a span.timer {
+    display: block;
+    padding: 3px 0 4px;
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    color: #fff;
+    font-size: 11px;
+    margin-right: -10px;
+    border-radius: 6px 0;
+    line-height: 1.42857143;
+    top: 6px;
+    width: 82px;
+    text-align: center;
+}
+
+.h1,h2,h3,h5,h6,strong{font-size:13px;display:inline}
