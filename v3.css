@@ -1,7 +1,10 @@
 .fcstream {
     background-image: url(//i.imgur.com/WtJIGMb.png);
-    background-repeat: no-repeat;
-    display: block;
+    display:inline-block;
+    width:30px;
+    height:25px;
+    background-repeat:no-repeat;
+    vertical-align:middle;
 }
 
 .fcstream-AFC-Champions-League {
